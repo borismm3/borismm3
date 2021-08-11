@@ -6,7 +6,7 @@
 - 📫 You can contact me by email to borismaidana3@gmail.com
 
 ## Skills:
-https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 
 <!---
