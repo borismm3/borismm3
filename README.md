@@ -5,7 +5,7 @@
 - 📫 You can contact me by email to borismaidana3@gmail.com
 
 ## Skills as web developer:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,react,spring,androidstudio,java,cs,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,angular,react,spring,androidstudio,java,cs,py)](https://skillicons.dev)
 
 ## Skills as tester:
 [![My Skills](https://skillicons.dev/icons?i=selenium,jenkins,postman,gherkin)](https://skillicons.dev)
